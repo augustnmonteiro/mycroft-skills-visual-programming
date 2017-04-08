@@ -5,6 +5,9 @@ This project is using nodered as base
 
 ![image](https://raw.githubusercontent.com/augustnmonteiro/skills-visual-programming/master/screen.png)
 
+# Requirement
+node>=6
+
 # Install
 You should have the last version of node installed and run `npm install`
 

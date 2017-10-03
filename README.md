@@ -14,6 +14,9 @@ node>=6
 You should have the last version of node installed and run `npm install`
 
 # Run
+`npm install`
+`sudo npm install -g grunt-cli`
+`grunt build`
 `node red`
 
 # Example
